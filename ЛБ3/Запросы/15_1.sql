@@ -1,0 +1,1 @@
+INSERT INTO Sales_people VALUES (1100, 'Стеблов', 'Мытищи', NULL)
